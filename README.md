@@ -2,7 +2,7 @@
 - I am currently learning React.JS and working on AWS/Azure
 - I'm looking to collaborate on different systems and big data projects.
 
-# Tech Stack: 
+# :space_invader: Tech Stack: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
