@@ -1,6 +1,7 @@
 # :cowboy_hat_face: About Me:
 - I am currently learning React.JS and working on AWS/Azure
 - I'm looking to collaborate on different systems and big data projects.
+- I am interested in Data Science and am aiming to puruse a Masters degree in eitehr Computer Science or Data Science.
 
 # :space_invader: Tech Stack: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
